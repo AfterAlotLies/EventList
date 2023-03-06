@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<CityEvents>
+	<Event name="SFML">
+		<Header>SFML</Header>
+		<Description>Библиотека SFML предоставляет простой интерфейс для различных компонентов вашего компьютера, чтобы облегчить разработку игр и мультимедийных приложений </Description>
+		<Image>Assets/events/sfml.png</Image>
+		<Date>28.01.2023</Date>
+		<Category>
+			<CategoryItem>Образование</CategoryItem>
+			<CategoryItem>Онлайн</CategoryItem>
+		</Category>
+		<Price>500₽</Price>
+	</Event>
+	<Event name="Масленица">
+		<Header>Масленица</Header>
+		<Description>Масленица — восточнославянский традиционный праздник, отмечаемый в течение недели перед Великим постом, сохранивший в своей обрядовой основе ряд элементов дохристианской славянской мифологии.</Description>
+		<Image>Assets/events/maslenica.png</Image>
+		<Date>18.03.2023</Date>
+		<Category>
+			<CategoryItem>Культура</CategoryItem>
+			<CategoryItem>Для детей</CategoryItem>
+		</Category>
+		<Price></Price>
+	</Event>
+	<Event name="Большой Планетарий">
+		<Header>Большой Планетарий</Header>
+		<Description>Детско-юношеский центр "Планетарий",</Description>
+		<Image>Assets/events/planeta.png</Image>
+		<Date>12.01.2023</Date>
+		<Category>
+			<CategoryItem>Образование</CategoryItem>
+			<CategoryItem>Для детей</CategoryItem>
+			<CategoryItem>Экскурсии</CategoryItem>
+			<CategoryItem>Шоу</CategoryItem>
+		</Category>
+		<Price>870₽</Price>
+	</Event>
+  <Event name="Вечеринка">
+    <Header>Вечеринка</Header>
+    <Description>Супер фестиваль популярной музыки  представляет лучшее из золотой коллекции хитов 90-х и 2000-х годов. Одно из главных музыкальных событий собирающее аншлаги стартовал в 2017 году и продолжает своё шествие по стране.</Description>
+    <Image>Assets/events/party.png</Image>
+    <Date>07.02.2023</Date>
+    <Category>
+      <CategoryItem>Вечеринки</CategoryItem>
+      <CategoryItem>Шоу</CategoryItem>
+    </Category>
+    <Price></Price>
+  </Event>
+	<Event name="На каникулах">
+		<Header>Большой Планетарий</Header>
+		<Description>Добрые и веселые истории про обаятельного Мишку и его друзей из своего детства помнят многие взрослые: «Мишкина каша» и «Телефон», «Фантазеры», «Автомобиль».</Description>
+		<Image>Assets/events/teatr.png</Image>
+		<Date>07.02.2023</Date>
+		<Category>
+			<CategoryItem>Для детей</CategoryItem>
+			<CategoryItem>Шоу</CategoryItem>
+		</Category>
+		<Price>2000₽</Price>
+	</Event>
+	<Event name="Экскурсия в Томск">
+		<Header>Экскурсия в Томск</Header>
+		<Description>Город в России, административный центр одноимённых области и района, расположенный на востоке Западной Сибири на берегу реки Томи</Description>
+		<Image>Assets/events/trip.png</Image>
+		<Date>23.02.2023</Date>
+		<Category>
+			<CategoryItem>Экскурсии</CategoryItem>
+		</Category>
+		<Price>18000₽</Price>
+	</Event>
+	<Event name="Гонка героев">
+		<Header>Барнаул из Новосибирска</Header>
+		<Description>Гонка Героев - это крутой забег с препятствиями в твоем городе! Драйвовое приключение для каждого - ты испытаешь свои силы и поверишь, что для тебя нет ничего невозможного.</Description>
+		<Image>Assets/events/gonka.png</Image>
+		<Date>22.02.2023</Date>
+		<Category>
+			<CategoryItem>Спорт</CategoryItem>
+		</Category>
+		<Price>569₽</Price>
+	</Event>
+	<Event name="IT DOTA 2">
+		<Header>Чемпионат мира по Dota 2</Header>
+		<Description>Чемпионат мира по Dota 2</Description>
+		<Image>Assets/events/dota2.png</Image>
+		<Date>31.02.2023</Date>
+		<Category>
+			<CategoryItem>Спорт</CategoryItem>
+			<CategoryItem>Онлайн</CategoryItem>
+			<CategoryItem>Для детей</CategoryItem>
+			<CategoryItem>Образование</CategoryItem>
+			<CategoryItem>Шоу</CategoryItem>
+		</Category>
+		<Price>10000₽</Price>
+	</Event>
+	<Event name="Йога тренинг">
+		<Header>Йога тренин</Header>
+		<Description>Тренировки, правильное питание, реалибитация.</Description>
+		<Image>Assets/events/yoga.png</Image>
+		<Date>02.03.2023</Date>
+		<Category>
+			<CategoryItem>Образ жизни</CategoryItem>
+			<CategoryItem>Онлайн</CategoryItem>
+		</Category>
+		<Price>1024₽</Price>
+	</Event>
+</CityEvents>
